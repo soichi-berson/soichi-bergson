@@ -1,2 +1,3 @@
-# soichi-bergson
-Github profile README
+#Hi, this is Soichiro 
+
+
